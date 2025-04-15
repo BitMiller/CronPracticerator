@@ -1,0 +1,7 @@
+@250415-2-1451
+
+- Data source for fl@"jobs.dat" :
+
+> https://crontab.guru/
+
+9 variations total, and it repeats.
